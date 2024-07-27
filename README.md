@@ -1,5 +1,4 @@
 # Air-Canvas
-# Air Canvas
 
 This project is an air canvas that allows users to draw on a virtual whiteboard using their finger. It uses OpenCV for computer vision, MediaPipe for hand tracking, and various libraries for managing points and drawing on the canvas.
 
